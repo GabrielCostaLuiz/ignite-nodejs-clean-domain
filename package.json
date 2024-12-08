@@ -1,7 +1,7 @@
 {
   "name": "ignite-nodejs",
   "version": "1.0.0",
-  "description": "Design dirigido à domínio",
+  "description": "API de fórum desenvolvida em Node.js seguindo os princípios de Clean Architecture e Domain-Driven Design (DDD). Organizada em camadas modulares, a aplicação oferece uma base escalável e de fácil manutenção para gerenciamento de tópicos, postagens e usuários.",
   "main": "index.js",
   "scripts": {
     "test": "vitest run",
